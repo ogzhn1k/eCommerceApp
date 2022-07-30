@@ -1,0 +1,1 @@
+Backend Java Spring Boot ile yazılmıştır. Geliştirmeler devam etmektedir.
